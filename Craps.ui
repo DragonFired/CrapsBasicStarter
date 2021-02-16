@@ -59,7 +59,7 @@
      <pixmap resource="crapsResources.qrc">:/6</pixmap>
     </property>
    </widget>
-   <widget class="QSpinBox" name="spinBox">
+   <widget class="QSpinBox" name="bidSpinBoxUI">
     <property name="geometry">
      <rect>
       <x>310</x>
